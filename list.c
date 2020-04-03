@@ -17,7 +17,7 @@ struct node *head = NULL;
 
 
 struct node* list_insert(int value) {
-    // TODO: implement
+    // TODO: implement check
     return NULL;
 }
 
